@@ -1,3 +1,3 @@
 # hello-world
 first repository ever
-pleasure watch toe scissors notebook and new pencils
+this is me at Iron Yard Crash Course
